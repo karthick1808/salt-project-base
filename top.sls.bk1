@@ -1,0 +1,7 @@
+base:
+  'app01':
+    - ssh
+  'salt':
+    - ssh
+  'db-users':
+    - app-conf
